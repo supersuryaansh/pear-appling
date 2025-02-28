@@ -6,18 +6,9 @@ project(pear_appling C)
 
 add_pear_appling(
   pear_appling
-  KEY "<z32-key>"
-  NAME "<string>"
+  KEY "m9og4cqyqmq7bn47b1fchj79bxcte47ronmdgnhjsamfnodapj3o"
+  NAME "Holesail"
   VERSION 1.0.0
-  AUTHOR "<string>"
-  DESCRIPTION "<string>"
-
-  MACOS_IDENTIFIER <namespace>
-  MACOS_CATEGORY <category>
-  MACOS_SIGNING_IDENTITY <id>
-
-  WINDOWS_SIGNING_SUBJECT "<string>"
-  WINDOWS_SIGNING_THUMBPRINT <sha1>
-
-  LINUX_CATEGORY <category>
+  AUTHOR "supersu"
+  DESCRIPTION "P2P Network tunneling"
 )
